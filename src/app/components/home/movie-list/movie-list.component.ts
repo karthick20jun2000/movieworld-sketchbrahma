@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { LoaderService } from '../service/loader/loader.service';
-import { MovieListService } from '../service/movies-list/movie-list.service';
-import { MoviesService } from '../service/movies-serach/movies.service';
+import { LoaderService } from '../../../service/loader/loader.service';
+import { MovieListService } from '../../../service/movies-list/movie-list.service';
+import { MoviesService } from '../../../service/movies-serach/movies.service';
 
 @Component({
   selector: 'app-movie-list',

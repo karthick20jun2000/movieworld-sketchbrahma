@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { LoaderService } from '../service/loader/loader.service';
-import { MoviesService } from '../service/movies-serach/movies.service';
+import { LoaderService } from '../../../service/loader/loader.service';
+import { MoviesService } from '../../../service/movies-serach/movies.service';
 
 @Component({
   selector: 'app-header',
