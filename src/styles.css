@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    background: #0C111B;
+    color: #ffffff;
+}
+
+.container-fluid {
+    max-width: 1280px;
+}

@@ -1,0 +1,23 @@
+.col-md-3,
+.col-lg-3 {
+    max-width: 300px;
+}
+
+.movieInfo {
+    background: linear-gradient(0deg, #1A2B4A 0%, #2B507C 105.38%);
+}
+
+.movielist {
+    gap: 1rem;
+    cursor: pointer;
+}
+
+.fa-circle-play {
+    color: #FF9966;
+    border-radius: 50%;
+}
+
+.fa-star {
+    color: #FFE234;
+    font-size: 12px;
+}
